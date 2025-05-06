@@ -1,0 +1,122 @@
+# depslib dependency file v1.0
+1746457947 source:c:\sdl2\code\sdl_game\defensekasukabe-c-sdl-game-main\sdl_image_functions.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_audio.h>
+
+1746457947 source:c:\sdl2\code\sdl_game\defensekasukabe-c-sdl-game-main\sdl_utils.cpp
+	<iostream>
+	<SDL.h>
+
+1746457947 source:c:\sdl2\code\defensekasukabe-c-sdl-game-main\sdl_image_functions.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_audio.h>
+
+1746457947 source:c:\sdl2\code\defensekasukabe-c-sdl-game-main\sdl_utils.cpp
+	<iostream>
+	<SDL.h>
+
+1746457947 source:c:\sdl2\code\sdl_game\sdl_image_functions.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_audio.h>
+
+1746461691 source:c:\sdl2\code\sdl_game\sdl_utils.cpp
+	<iostream>
+	<SDL.h>
+
+1746457947 source:c:\sdl2\code\sdl_game\gameboard.cpp
+	<SDL.h>
+	<SDL_mixer.h>
+	"SDL_mixer_function.h"
+	"SDL_utils.h"
+	"GameBoard.h"
+
+1746460577 c:\sdl2\sdl2_mixer-2.8.0\x86_64-w64-mingw32\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1746457947 c:\sdl2\code\sdl_game\sdl_mixer_function.h
+	<iostream>
+	<SDL.h>
+	<SDL_mixer.h>
+
+1746457947 c:\sdl2\code\sdl_game\sdl_utils.h
+	<iostream>
+	<SDL.h>
+
+1746457947 c:\sdl2\code\sdl_game\gameboard.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"SDL_mixer_function.h"
+	"Tile.h"
+
+1746457947 c:\sdl2\code\sdl_game\tile.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1746457947 source:c:\sdl2\code\sdl_game\main.cpp
+	<SDL.h>
+	<ctime>
+	"SDL_utils.h"
+	"game.h"
+
+1746457947 c:\sdl2\code\sdl_game\game.h
+	"GameBoard.h"
+
+1746457947 source:c:\sdl2\code\sdl_game\sdl_mixer_function.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_mixer.h>
+	"SDL_mixer_function.h"
+
+1746457947 source:c:\sdl2\code\sdl_game\sdl_ttf_function.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1746462912 c:\sdl2\sdl2_ttf-2.20.2\x86_64-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1746457947 source:c:\sdl2\code\sdl_game\tile.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"Tile.h"
+	"SDL_mixer_function.h"
+
+1746462197 source:c:\sdl2\code\sdl_game\game.cpp
+	<iostream>
+	<sstream>
+	"SDL_utils.h"
+	<vector>
+	"SDL_image_functions.h"
+	"SDL_mixer_function.h"
+	"SDL_ttf_function.h"
+	"GameBoard.h"
+	"game.h"
+
+1746541109 c:\sdl2\code\sdl_game\sdl_image_functions.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1746457947 c:\sdl2\code\sdl_game\sdl_ttf_function.h
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+
